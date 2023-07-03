@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project",
+  "node.version": "v18.16.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

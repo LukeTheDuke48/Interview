@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Luket/Downloads/mapsys-project/mapsys-project/mapsys-project/frontend/generated/jar-resources",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "C:\\Users\\Luket\\Downloads\\mapsys-project\\mapsys-project\\mapsys-project\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
